@@ -10,15 +10,11 @@ ul{color: yellow;
 list-style: none;
 overflow: hidden;
 background-color: aquamarine;
-min-height: 60vh;
+min-height: 60vh;}
 
-
-
-
-}
 li a{display: block;
-    min
 }
+
 div{background-color: aquamarine
 
 }
